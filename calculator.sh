@@ -1,7 +1,5 @@
 #/bin/bash
 #Taking input & output from user
-clear
-
 
 trap 'printf "\n";stop' 2
 
