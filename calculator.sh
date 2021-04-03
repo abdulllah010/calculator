@@ -1,25 +1,20 @@
 #/bin/bash
-#Taking input & output from user
+# coded by : github.com/abdulllah010/calculator
+# created my Masthan
 
-trap 'printf "\n";stop' 2
+clear
 
-banner() {
-echo "
+echo " 
 
-printf "\e[1;92m  _____ _    ____ ______   ____    _    __  __ \e[0m\n"
-printf "\e[1;92m |  ___/ \  / ___| _____| / ___|  / \  |  \/  |\e[0m\n"
-printf "\e[1;92m \e[0m\n"
-printf "\e[1;92m |  _/ ___ \ |___| |___  | |___ / ___ \| |  | |\e[0m\n"
-printf "\e[1;92m |_|/_/   \_\____|_____|  \____/_/   \_\_|  |_|\e[0m\n"
-printf "\e[1;92m                                               \e[0m\n"
+  ____    _    _     ____ _   _ _        _  _____ ___  ____  
+ / ___|  / \  | |   / ___| | | | |      / \|_   _/ _ \|  _ \ 
+| |     / _ \ | |  | |   | | | | |     / _ \ | || | | | |_) |
+| |___ / ___ \| |__| |___| |_| | |___ / ___ \| || |_| |  _ < 
+ \____/_/   \_\_____\____|\___/|_____/_/   \_\_| \___/|_| \_\ "
+
 echo " "
-printf "\e[1;77m Calculator Version 1.0 Coded by Masthan\e[0m \n"
-
-printf "\n"
-
-echo
-}
-
+printf "      \e[1;77m v1.0 coded by github.com/abdulllah010/calculator\e[0m \n"
+echo " "
 echo "Enter your 1st Number : "
 read a
 echo "Enter your 2nd Number : "
