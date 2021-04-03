@@ -4,7 +4,7 @@
 trap 'printf "\n";stop' 2
 
 banner() {
-
+echo '
 
 printf "\e[1;92m  _____ _    ____ ______   ____    _    __  __ \e[0m\n"
 printf "\e[1;92m |  ___/ \  / ___| _____| / ___|  / \  |  \/  |\e[0m\n"
