@@ -16,4 +16,4 @@ bash calculator.sh
 ```
 ### CONNECT WITH ME :
 
-<a href="https://github.com/abdulllah010"><img title="Github" src="https://img.shields.io/badge/syed-brightgreen?style=for-the-badge&logo=github"></a>
+[![Github](https://img.shields.io/badge/Github-LINUX--SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
