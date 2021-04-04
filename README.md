@@ -12,7 +12,6 @@ cd calculator
 bash calculator.sh
 ```
 
-## CONNECT WITH US :
+### CONNECT WITH ME :
 
-Linux Specialist (youtube)
-
+<a href="https://github.com/abdulllah010"><img title="Github" src="https://img.shields.io/badge/syed-brightgreen?style=for-the-badge&logo=github"></a>
