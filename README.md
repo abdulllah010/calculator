@@ -6,7 +6,7 @@
 
 ## TESTED ON :
 
-*Termux & Kali Linux
+Termux & Kali Linux
 
 ### INSTALLATION :
 ```
