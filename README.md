@@ -16,4 +16,6 @@ bash calculator.sh
 ```
 ### CONNECT WITH ME :
 
+<a href="https://www.youtube.com/channel/UCQ2pT_4sAch7AZjhYgOmv3g"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Linux Specialist-red?style=for-the-badge&logo=Youtube"></a>
+
 [![Github](https://img.shields.io/badge/Github-LINUX--SPECIALIST-green?style=for-the-badge&logo=github)](https://github.com/abdulllah010)
